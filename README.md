@@ -8,4 +8,4 @@
 
 💙 Join Linkedin (Mohammed Azzam) [https://www.linkedin.com/in/mohammed-mojahed-7866b817b/]
 
-(/preview.png)
+![preview img](/preview.png)
